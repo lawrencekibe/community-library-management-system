@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1627476585 source:c:\users\nm\documents\lawrence code\library 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1627842583 source:c:\users\nm\documents\lawrence code\library library management system 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
